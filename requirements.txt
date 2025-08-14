@@ -13,7 +13,7 @@ charset-normalizer==2.0.7
 cloudpickle==2.0.0
 conda-pack==0.6.0
 cycler==0.11.0
-Cython==0.29.24
+Cython
 dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.7.1
@@ -26,11 +26,9 @@ glfw==2.5.0
 google-pasta==0.2.0
 gym==0.10.5
 h5py==2.10.0
-icc-rt==2020.0.133
 idna==3.3
 imageio==2.14.1
 importlib-metadata==4.8.1
-intel-numpy==1.15.1
 intel-openmp==2022.0.2
 ipykernel==5.5.5
 ipython==7.16.1
@@ -54,9 +52,6 @@ Markdown==3.3.4
 MarkupSafe==2.0.1
 matplotlib==3.3.4
 mistune==0.8.4
-mkl==2022.0.2
-mkl-fft==1.0.6
-mkl-random==1.0.1.1
 mock==4.0.3
 mujoco-py==2.1.2.14
 multitasking==0.0.10
@@ -98,8 +93,7 @@ sgmllib3k==1.0.0
 six==1.16.0
 sklearn==0.0
 smart-open==5.2.1
-tbb==2021.5.1
-tbb4py==2019.0
+
 tensorboard==1.13.1
 tensorflow==1.13.2
 tensorflow-estimator==1.13.0
